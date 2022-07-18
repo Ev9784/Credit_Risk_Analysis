@@ -37,4 +37,3 @@ The Balanced Accuracy of this model is approximately 78.85%. Precision: (High Ri
 ![EasyEnsemble](https://github.com/Ev9784/Credit_Risk_Analysis/blob/main/Resouces/Easy%20Ensemble%20Ada%20Boost%20Classifer.PNG?raw=true)
 The Balanced Accuracy of this model is approximately 93.16% Precision: (High Risk) = 0.09, (Low Risk) = 1.00 . Recall: (High Risk) = 0.92, (Low Risk) = 0.94 
 
-## Summary
